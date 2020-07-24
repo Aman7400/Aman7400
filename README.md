@@ -1,16 +1,22 @@
-### Hi there 👋
+# Aman Shukla
+* A tech enthusiast currently exploring all possible domains of Web Design and Developement.
 
-<!--
-**Aman7400/Aman7400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About :v:
+- Pursuing Bachelor's in Computer Science from [LPU](https://www.lpu.in/) , Punjab , India.
+- Competative Programmer
+- Full Stack Web Devloper
+- 5 :star: JAVA - [Hackerrank](https://www.hackerrank.com/amanks7400)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills :sparkles:
+HTML || CSS || Javascript || Java ||
+MongoDB || Nodejs || React || ExpressJs || Blogger 
+
+#### Open for Project Collabs and Freelancing 
+
+
+
+
+
+
+
