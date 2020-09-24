@@ -7,6 +7,10 @@
 - Full Stack Web Devloper
 - 5 :star: JAVA - [Hackerrank](https://www.hackerrank.com/amanks7400)
 
+## Currently Learning  :pushpin:
+- Next.js 
+- Android Developement 
+
 
 ## My Skills :sparkles:
 HTML || CSS || Javascript || Java ||
