@@ -4,11 +4,13 @@
 ## About :v:
 - Pursuing Bachelor's in Computer Science from [LPU](https://www.lpu.in/) , Punjab , India.
 - Competative Programmer
-- Full Stack Web Devloper
+- Full Stack Web Developer
+- Android Developer
 - 5 :star: JAVA - [Hackerrank](https://www.hackerrank.com/amanks7400)
 
 ## Currently Learning  :pushpin:
 - Next.js 
+- React-native
 - Android Developement 
 
 
