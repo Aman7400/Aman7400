@@ -1,5 +1,8 @@
 # Aman Shukla
-* A tech enthusiast currently exploring all possible domains of Web Design and Developement.
+* A computer nerd  having a passion for
+Websites and Apps Development . I love
+creating applications and websites demanding
+solutions for real-world requirements.
 
 ## About :v:
 - Pursuing Bachelor's in Computer Science from [LPU](https://www.lpu.in/) , Punjab , India.
@@ -9,14 +12,16 @@
 - 5 :star: JAVA - [Hackerrank](https://www.hackerrank.com/amanks7400)
 
 ## Currently Learning  :pushpin:
+- Kotlin
 - Next.js 
 - React-native
-- Android Developement 
+
 
 
 ## My Skills :sparkles:
 HTML || CSS || Javascript || Java ||
 MongoDB || Nodejs || React || ExpressJs || Blogger 
+|| Firebase || MySQL || Kotlin 
 
 #### Open for Project Collabs and Freelancing 
 
