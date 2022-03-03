@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently focusing on Frontend Technologies 👨🏻‍💻
 - 🤔 Into Development since 2019 😎
-- ⚙️ Loves to learn new things & be a contributor to the community 
+- ⚙️ Love to learn new things & be a contributor to the community 
 - 💬 Interested in Cloud, Blockchain and Full Stack Web Development
 - 😍 For Business deals reach me through 📩
 
