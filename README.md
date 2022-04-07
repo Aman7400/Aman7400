@@ -1,6 +1,6 @@
 # 💫About Me :
 
-- 🔭 I’m currently focusing on Frontend Technologies 👨🏻‍💻
+- 🔭 I’m currently working on Full stack Javascript development using MERN Stack 👨🏻‍💻
 - 🤔 Into Development since 2019 😎
 - ⚙️ Love to learn new things & be a contributor to the community 
 - 💬 Interested in Cloud, Blockchain and Full Stack Web Development
