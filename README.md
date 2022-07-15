@@ -5,7 +5,7 @@ Hi 👋 My name is Aman Shukla
 
 <img width="1440" height="480" src="https://media.giphy.com/media/125cxELHOpsLra/giphy.gif" />
 
-* 🌍  I'm a Full Stack Web Developer based in Lucknow, Uttar Pradesh
+* 🌍  I'm a **Full Stack Developer** based in Lucknow, Uttar Pradesh
 * 🖥️  See my portfolio at [aman-shukla.netlify.app](http://aman-shukla.netlify.app)
 * ✉️  You can contact me at [amanks7400@gmail.com](mailto:amanks7400@gmail.com)
 * 🚀  I'm currently working on [Fire Vault](https://github.com/Aman7400/FireVaultGames/tree/master)
