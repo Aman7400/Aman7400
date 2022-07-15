@@ -8,9 +8,9 @@ Hi 👋 My name is Aman Shukla
 * 🌍  I'm a Full Stack Web Developer based in Lucknow, Uttar Pradesh
 * 🖥️  See my portfolio at [aman-shukla.netlify.app](http://aman-shukla.netlify.app)
 * ✉️  You can contact me at [amanks7400@gmail.com](mailto:amanks7400@gmail.com)
-* 🚀  I'm currently working on [Examily](http://examily-online-tests.netlify.app)
-* 🧠  I'm learning Rust 🦀
-* 🤝  I'm open to collaborating on Full Stack Web Development , Blockchain and Cloud development
+* 🚀  I'm currently working on [Fire Vault](https://github.com/Aman7400/FireVaultGames/tree/master)
+* 🧠  I'm learning **react-native** 📱
+* 🤝  I'm open to collaborating on Full Stack Web, Mobile App and Cloud development
 * ⚡  I love learning new technology and frameworks
 
 # 🌏 Socials
