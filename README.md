@@ -3,7 +3,7 @@ Hi 👋 My name is Aman Shukla
 
 
 
-<img width="1000" height="480" src="https://media.giphy.com/media/125cxELHOpsLra/giphy.gif" />
+<img width="100%" height="480" src="https://media.giphy.com/media/125cxELHOpsLra/giphy.gif" />
 
 * 🌍  I'm a **Full Stack Developer** based in Lucknow, Uttar Pradesh
 * 🖥️  See my portfolio at [aman-shukla.netlify.app](http://aman-shukla.netlify.app)
