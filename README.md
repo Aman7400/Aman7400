@@ -8,7 +8,7 @@ Hi 👋 My name is Aman Shukla
 * 🌍  I'm a **Full Stack Developer** based in Lucknow, Uttar Pradesh
 * 🖥️  See my portfolio at [aman-shukla.netlify.app](http://aman-shukla.netlify.app)
 * ✉️  You can contact me at [amanks7400@gmail.com](mailto:amanks7400@gmail.com)
-* 🚀  I'm currently working on [Rockstar Blogs](https://github.com/Aman7400/rockstar-blogs/tree/main)
+* 🚀  I'm currently working on [Rockstar Pay](https://github.com/Aman7400/rockstar-pay/tree/main)
 * 🧠  I'm learning **Next JS** 🕸
 * 🤝  I'm open to collaborating on Full Stack Web, Mobile App and Cloud development
 * ⚡  I love learning new technology and frameworks
