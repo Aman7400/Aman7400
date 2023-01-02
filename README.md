@@ -6,10 +6,9 @@ Hi 👋 My name is Aman Shukla
 <img width="100%" height="480" src="https://media.giphy.com/media/125cxELHOpsLra/giphy.gif" />
 
 * 🌍  I'm a **Full Stack Developer** based in Lucknow, Uttar Pradesh
-* ✉️  You can contact me at [amanks7400@gmail.com](mailto:amanks7400@gmail.com)
-* 🚀  I'm currently working on [Disney Characters Website](https://github.com/Aman7400/disney-characters/tree/main)
-* 🧠  I'm learning **Next JS** 🕸
-* 🤝  I'm open to collaborating on Full Stack Web, Mobile App and Cloud development
+* ✉️  Reach out to me via [amanks7400@gmail.com](mailto:amanks7400@gmail.com)
+* 🧠  Currently I'm exploring **Artificial Intelligence & Machine Learning 🦾**
+* 🤝  I'm open to collaborating on Full Stack Web, Mobile App and Native Cloud development 💭
 * ⚡  I love learning new technology and frameworks
 
 # 🌏 Socials
