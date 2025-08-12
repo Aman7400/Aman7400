@@ -13,7 +13,7 @@ Hi 👋 My name is Aman Shukla
 
 # 🌏 Socials
 <a href="https://x.com/_superrsaiyan_" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/_superrsaiyan_?logo=twitter&style=for-the-badge&color=a855f7&labelColor=000000"
+src="https://img.shields.io/x/follow/_superrsaiyan_?logo=x&style=for-the-badge&color=a855f7&labelColor=000000"
 /></a><a href="https://www.github.com/Aman7400" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Aman7400?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" /></a>
 
