@@ -12,7 +12,7 @@ Hi 👋 My name is Aman Shukla
 * ⚡  I love learning new technology and frameworks
 
 # 🌏 Socials
-<a href="https://www.twitter.com/strk1703" target="_blank" rel="noreferrer"><img
+<a href="https://x.com/_superrsaiyan_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/strk1703?logo=twitter&style=for-the-badge&color=a855f7&labelColor=000000"
 /></a><a href="https://www.github.com/Aman7400" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Aman7400?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" /></a>
